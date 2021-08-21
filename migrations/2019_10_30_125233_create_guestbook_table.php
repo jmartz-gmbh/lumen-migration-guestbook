@@ -7,7 +7,7 @@ use Illuminate\Database\Migrations\Migration;
 class CreateGuestbookTable extends Migration
 {
 
-    public $tablename = 'guestbook';
+    public $tablename = 'guestbooks';
 
     /**
      * Run the migrations.
